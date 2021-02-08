@@ -2,4 +2,5 @@
 
 - Linking remote repository with local repository
 
-- sending modifications to github
+- sending modifications to github (old)
+- pulling modifications from github
